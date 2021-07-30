@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.33ae83b9.chunk.css",
-    "main.js": "/static/js/main.51b48ade.chunk.js",
-    "main.js.map": "/static/js/main.51b48ade.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.74decc9a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.74decc9a.js.map",
-    "static/js/2.a7b044f0.chunk.js": "/static/js/2.a7b044f0.chunk.js",
-    "static/js/2.a7b044f0.chunk.js.map": "/static/js/2.a7b044f0.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.33ae83b9.chunk.css.map": "/static/css/main.33ae83b9.chunk.css.map",
-    "static/js/2.a7b044f0.chunk.js.LICENSE.txt": "/static/js/2.a7b044f0.chunk.js.LICENSE.txt",
-    "static/media/app.scss": "/static/media/ProximaNova-Regular.d97f8f32.eot",
-    "static/media/empty-cart.db905d1f.png": "/static/media/empty-cart.db905d1f.png",
-    "static/media/pizza-logo.56ac8703.svg": "/static/media/pizza-logo.56ac8703.svg"
+    "main.css": "/react-pizza/static/css/main.eb553c76.chunk.css",
+    "main.js": "/react-pizza/static/js/main.51b48ade.chunk.js",
+    "main.js.map": "/react-pizza/static/js/main.51b48ade.chunk.js.map",
+    "runtime-main.js": "/react-pizza/static/js/runtime-main.f4f724b7.js",
+    "runtime-main.js.map": "/react-pizza/static/js/runtime-main.f4f724b7.js.map",
+    "static/js/2.a7b044f0.chunk.js": "/react-pizza/static/js/2.a7b044f0.chunk.js",
+    "static/js/2.a7b044f0.chunk.js.map": "/react-pizza/static/js/2.a7b044f0.chunk.js.map",
+    "index.html": "/react-pizza/index.html",
+    "static/css/main.eb553c76.chunk.css.map": "/react-pizza/static/css/main.eb553c76.chunk.css.map",
+    "static/js/2.a7b044f0.chunk.js.LICENSE.txt": "/react-pizza/static/js/2.a7b044f0.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/react-pizza/static/media/ProximaNova-Regular.d97f8f32.eot",
+    "static/media/empty-cart.db905d1f.png": "/react-pizza/static/media/empty-cart.db905d1f.png",
+    "static/media/pizza-logo.56ac8703.svg": "/react-pizza/static/media/pizza-logo.56ac8703.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.74decc9a.js",
+    "static/js/runtime-main.f4f724b7.js",
     "static/js/2.a7b044f0.chunk.js",
-    "static/css/main.33ae83b9.chunk.css",
+    "static/css/main.eb553c76.chunk.css",
     "static/js/main.51b48ade.chunk.js"
   ]
 }
